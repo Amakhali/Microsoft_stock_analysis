@@ -22,7 +22,7 @@ The goal of this project is to predict Microsoft stock prices using historical d
 1. **LSTM (Long Short-Term Memory)**: A deep learning model for time-series data.
 2. **XGBoost**: A gradient boosting model for regression tasks.
 
-The models are trained on historical stock data from 2010 to 2023, collected using the `yfinance` library.
+The models are trained on historical stock data from 2010 to 2025, collected using the `yfinance` library.
 
 ## Features
 - Data collection using `yfinance`.
