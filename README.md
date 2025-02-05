@@ -11,11 +11,6 @@ This project predicts Microsoft (MSFT) stock prices using machine learning model
 - [Overview](#overview)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 The goal of this project is to predict Microsoft stock prices using historical data. Two models are implemented:
@@ -33,5 +28,5 @@ The models are trained on historical stock data from 2010 to 2025, collected usi
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/msft-stock-prediction.git
-   cd msft-stock-prediction
+   git clone https://github.com/Amakhali/Microsoft_stock_analysis.git
+   cd Microsoft_stock_analysis
